@@ -1,0 +1,16 @@
+{
+  "name": "line-bot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pad01g <101613202+pad01g@users.noreply.github.com> (https://github.com/pad01g)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
